@@ -1,3 +1,6 @@
+//Info Mail:fanmemecoin@gmail.com
+
+
 pragma solidity 0.5.16;
 
 interface IBEP20 {
