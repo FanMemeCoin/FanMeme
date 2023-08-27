@@ -9,19 +9,17 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/FanMemeCoin/FanMeme.git"
-    
   },
   "author": "luis",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/FanMemeCoin/FanMeme/issues"
-   
   },
   "homepage": "https://www.fanmeme.online",
-  "logo":"https://raw.githubusercontent.com/FanMemeCoin/FanMeme/orgin/LogoFanMeme200x200.jpg",
-  "twitter":"https://twitter.com/FanMemeCoin",
-  "telegarm":"https://t.me/FanMemeCoin",
-  "mail":"fanmemecoin@gmail.com",
+  "logo": "https://raw.githubusercontent.com/FanMemeCoin/FanMeme/orgin/LogoFanMeme200x200.jpg",
+  "twitter": "https://twitter.com/FanMemeCoin",
+  "telegarm": "https://t.me/FanMemeCoin",
+  "mail": "fanmemecoin@gmail.com",
   "devDependencies": {
     "@nomicfoundation/hardhat-toolbox": "^3.0.0",
     "hardhat": "^2.17.1"
