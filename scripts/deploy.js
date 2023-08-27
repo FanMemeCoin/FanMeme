@@ -2,7 +2,7 @@ const hre = require("hardhat");
 
 async function main() {
   const FanMeme = await hre.ethers.getContractFactory("FanMeme");
-  const fanMeme = await FanMeme.deploy(1000000000, 18);
+  const fanMeme = await FanMeme.deploy(1000000000);
 
   await fanMeme.deployed();
 

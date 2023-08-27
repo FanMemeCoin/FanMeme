@@ -1,4 +1,5 @@
-//Info Mail:fanmemecoin@gmail.com
+//Info  Mail: fanmemecoin@gmail.com
+    Telegram: https://t.me/FanMemeCoin
 
 
 pragma solidity 0.5.16;
