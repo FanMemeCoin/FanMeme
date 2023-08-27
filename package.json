@@ -16,6 +16,10 @@
     "url": "https://github.com/FanMemeCoin/FanMeme/issues"
   },
   "homepage": "https://www.fanmeme.online",
+  "mail": "fanmemecoin@gmail.com",
+  "logo": "https://github.com/FanMemeCoin/FanMeme/blob/orgin/LogoFanMeme.png?raw=true",
+  "telegram": "https://t.me/FanMemeCoin",
+  "twiter": "https://twitter.com/FanMemeCoin",
   "devDependencies": {
     "@nomicfoundation/hardhat-toolbox": "^3.0.0",
     "hardhat": "^2.17.1"
@@ -23,5 +27,8 @@
   "dependencies": {
     "@openzeppelin/contracts": "^4.9.3",
     "dotenv": "^16.3.1"
+  },
+  "directories": {
+    "test": "test"
   }
 }
