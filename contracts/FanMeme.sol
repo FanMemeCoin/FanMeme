@@ -1,6 +1,6 @@
 //Info  mailto:fanmemecoin@gmail.com
 //  Telegram: https://t.me/FanMemeCoin
-
+//  Website:  https://www.fanmeme.online
 
 pragma solidity 0.5.16;
 
