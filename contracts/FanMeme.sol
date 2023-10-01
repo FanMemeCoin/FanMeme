@@ -1,14 +1,14 @@
 //Info  mailto:
-        fanmemecoin@gmail.com
+//      fanmemecoin@gmail.com
 
 //      Telegram: 
-        https://t.me/FanMemeCoin
+//      https://t.me/FanMemeCoin
 
-//      Website: 
-        https://www.fanmeme.online
+//      website: 
+//      https://www.fanmeme.online
 
 //      Buy PancakeSwap:
-        https://pancakeswap.finance/swap?outputCurrency=0x79ecae8ad0b49f5d08b36292f6c8fc928e01c686
+//      https://pancakeswap.finance/swap?outputCurrency=0x79ecae8ad0b49f5d08b36292f6c8fc928e01c686
 
 
 
